@@ -1,5 +1,6 @@
 <h1 align="center">MERN Developer | C / C++ / DSA Enthusiast Sumaiya Akter</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<div align="center"> <img src="[https://your-image-url-here](https://ibb.co.com/1JsZTrQD)" alt="Banner Image" width="100%" style="border-radius: 12px;" /> </div> <br/> <h1 align="center">👋 Hi, I'm <strong>Sumaiya Suchi</strong></h1> <h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumai-suchi&label=Profile%20views&color=0e75b6&style=flat" alt="sumai-suchi" /> </p>
 
