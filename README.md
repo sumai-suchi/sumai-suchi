@@ -5,7 +5,7 @@
   <img 
     src="https://raw.githubusercontent.com/sumai-suchi/sumai-suchi/main/me.jpg" 
     alt="Banner Image" 
-    width="100%"
+    width="40%"
     height="200px"
     style="border-radius: 12px;" 
   />
