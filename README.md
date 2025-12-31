@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/39058ce3-00d4-4e1d-9b02-b5dbd0b1192b" />
+
 <h1 align="center">MERN Developer | C / C++ / DSA Enthusiast </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
