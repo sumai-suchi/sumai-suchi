@@ -18,7 +18,7 @@
 <p align="center">👋 hi,I am a passionate MERN Stack Developer who loves building clean, modern, and user-friendly web applications. Always learning, exploring new technologies like Next.js, and creating meaningful projects — including tourism-based web platforms. Skilled in both frontend and backend, with strong foundations in C, C++, DSA, and Python.</p>
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
-- 🔭 I’m currently working on [zap-shift-web-app](https://github.com/sumai-suchi/zap-shift-client)
+- 🔭 I’m currently working on https://github.com/sumai-suchi/insight-ai
 
 - 🌱 I’m currently learning **Programming hero web course**
 
