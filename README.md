@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Black and White Illustrative Manager LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/39058ce3-00d4-4e1d-9b02-b5dbd0b1192b" />
 
-<h1 align="center">MERN Developer | C / C++ / DSA Enthusiast </h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Web developer | C / C++ / DSA Enthusiast </h1>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <div align="center">
   <img 
@@ -20,9 +20,9 @@
 
 - 🔭 I’m currently working on https://github.com/sumai-suchi/insight-ai
 
-- 🌱 I’m currently learning **Programming hero web course**
+- 🌱 I’m currently learning **Programming hero next level course**
 
-- 💬 Ask me about **react,expressJS,NodeJs,firebase,DSA**
+- 💬 Ask me about **react,expressJS,NodeJs,firebase,Postgres,Prisma,Langchain,Langgraph,Rag,VectorDB,DSA**
 
 - 📫 How to reach me **sumaiyamoina@gmail.com**
 
