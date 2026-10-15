@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Profile Banner -->
-  <a href="https://my-portfolio-tau-eight-8aw3rdwy6d.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:0f172a,75:0369a1,100:38bdf8&height=210&section=header&text=Sumaya%20Akhtar&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Scalable%20Systems%20%26%20AI%20Engineering&descSize=16&descColor=93c5fd&descAlignY=60" alt="Sumaya Akhtar — Full Stack Engineer Banner" width="100%" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumai-suchi/sumai-suchi/main/Gemini_Generated_Image_4ormm44ormm44orm.jpg" alt="Sumaya Akhtar Profile Banner" width="100%" />
+</p>
 
   <!-- Animated Role Typer -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer+Intern+%40+TynoTech;Building+Scalable+Web+%26+Backend+Systems;Next.js+%7C+TypeScript+%7C+Express+%7C+PostgreSQL;Growing+Toward+Practical+AI+Engineering" alt="Full Stack Engineer · Backend Architecture · AI Solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer;Building+Scalable+Web+%26+Backend+Systems;Next.js+%7C+TypeScript+%7C+Express+%7C+PostgreSQL;Growing+Toward+Practical+AI+Engineering" alt="Full Stack Engineer · Backend Architecture · AI Solutions" />
   </p>
 
   <!-- Quick Social Badges -->
@@ -47,8 +47,8 @@ With hands-on experience designing relational data models, role-based workflows,
 
 ## 💼 Professional Experience
 
-### **Full Stack Engineer Intern** · **TynoTech**
-*Currently working here · Bangladesh*
+### **Full Stack Engineer Intern** · **Tynoc Tech**
+*Currently working here · 
 
 - Collaborating on full-stack application modules across frontend components and backend services.
 - Designing and integrating modular RESTful APIs with relational and NoSQL databases.
