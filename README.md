@@ -35,7 +35,7 @@
 
 ## 👩‍💻 About Me
 
-I am a **Full Stack Engineer** and currently an **Engineer Intern at TynoTech** based in Bangladesh. I specialize in the modern **JavaScript/TypeScript** ecosystem, building performant full-stack web applications, dependable backend architectures, and clean, accessible user interfaces.
+I am a **Full Stack Engineer** and currently an **Engineer Intern at Tynoc Tech** based in Bangladesh. I specialize in the modern **JavaScript/TypeScript** ecosystem, building performant full-stack web applications, dependable backend architectures, and clean, accessible user interfaces.
 
 With hands-on experience designing relational data models, role-based workflows, and secure RESTful services, I am focused on engineering software that scales smoothly under production requirements. In parallel, I am actively expanding my skillset toward **AI Engineering**—integrating LLMs, vector search, and Retrieval-Augmented Generation (RAG) into practical web products.
 
