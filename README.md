@@ -90,66 +90,159 @@ With hands-on experience designing relational data models, role-based workflows,
 
 ---
 
-## 🚀 Featured Projects
+
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  Building impactful digital solutions through full-stack engineering,
+  scalable backend systems, and AI-powered applications.
+</p>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/sumai-suchi/ParcelPilot">ParcelPilot</a></h3>
-      <p><em>Enterprise-grade logistics and parcel lifecycle orchestration platform.</em></p>
-      <ul>
-        <li><b>Problem Solved:</b> Replaces disjointed delivery processes with unified real-time shipment dispatching and tracking.</li>
-        <li><b>Core Capabilities:</b> Multi-tier RBAC (Admin, Merchant, Rider), automated status transitions, and Stripe payment integration.</li>
-        <li><b>Tech Stack:</b> Next.js, TypeScript, Express.js, PostgreSQL, Prisma, Redis, Stripe, TanStack Query.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/sumai-suchi/ParcelPilot"><b>Source Code ↗</b></a> &nbsp;|&nbsp;
-        <a href="https://parcelpilot-two.vercel.app/"><b>Live Demo ↗</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/sumai-suchi/insight-ai">Insight AI</a></h3>
-      <p><em>AI-assisted content generation, synthesis, and workflow workspace.</em></p>
-      <ul>
-        <li><b>Problem Solved:</b> Bridges generative AI capabilities with structured content authoring and publishing flows.</li>
-        <li><b>Core Capabilities:</b> Google Gemini API integration, secure user sessions via Better Auth, and tier-based access management.</li>
-        <li><b>Tech Stack:</b> Next.js, TypeScript, MongoDB, Better Auth, Gemini API, Stripe.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/sumai-suchi/insight-ai"><b>Source Code ↗</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/sumai-suchi/gearup-backend">GearUp Apollo</a></h3>
-      <p><em>Robust backend engine powering an on-demand equipment rental marketplace.</em></p>
-      <ul>
-        <li><b>Problem Solved:</b> Coordinates secure multi-party leasing transactions between equipment owners and customers.</li>
-        <li><b>Core Capabilities:</b> Atomic database rental transactions, secure JWT authentication, and administrative moderation endpoints.</li>
-        <li><b>Tech Stack:</b> TypeScript, Node.js, Express.js, PostgreSQL, Prisma ORM, JWT.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/sumai-suchi/gearup-backend"><b>Source Code ↗</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/sumai-suchi">CareerTrack Lite</a></h3>
-      <p><em>Centralized application tracker for organizing job hunts and interview pipelines.</em></p>
-      <ul>
-        <li><b>Problem Solved:</b> Eliminates messy spreadsheets by organizing job submissions, recruiter dialogues, and follow-ups.</li>
-        <li><b>Core Capabilities:</b> Lifecycle stage boards, interview preparation notes, and status transition analytics.</li>
-        <li><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, RESTful API.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/sumai-suchi"><b>Repository ↗</b></a>
-        <!-- Replace link above with direct repo URL once published -->
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/sumai-suchi/ParcelPilot">ParcelPilot</a></h3>
+<p><strong>Full-Stack Logistics Management Platform</strong></p>
+
+<p>A comprehensive logistics platform designed to manage end-to-end parcel delivery operations, multi-hub tracking, and courier dispatching.</p>
+
+<strong>✨ Key Features</strong>
+<ul>
+<li>RBAC supporting five user roles</li>
+<li>Multi-hub shipment tracking and validated status transitions</li>
+<li>Courier dispatch and digital proof of delivery</li>
+<li>Stripe webhooks and Redis-backed OTP verification</li>
+<li>JWT authentication and role-based dashboards</li>
+</ul>
+
+<strong>🛠 Tech Stack</strong>
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
+</p>
+
+<p>
+<a href="https://github.com/sumai-suchi/ParcelPilot"><strong>📂 Repository</strong></a>
+&nbsp; | &nbsp;
+<a href="https://parcelpilot-frontend-phi.vercel.app/"><strong>🌐 Live Demo</strong></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 <a href="https://github.com/sumai-suchi/insight-ai">Insight AI</a></h3>
+<p><strong>AI-Powered Content Writing & News Platform</strong></p>
+
+<p>An AI-powered content workspace that helps users create, edit, optimize, and publish articles while accessing aggregated news content.</p>
+
+<strong>✨ Key Features</strong>
+<ul>
+<li>AI-powered content generation and editing</li>
+<li>SEO analysis and plagiarism detection</li>
+<li>Article drafts, previews, and publishing workflow</li>
+<li>Engagement tracking and content optimization</li>
+<li>Gemini AI and Guardian API integration</li>
+<li>Better Auth authentication and Stripe payments</li>
+</ul>
+
+<strong>🛠 Tech Stack</strong>
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Better_Auth-333333" />
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
+</p>
+
+<p>
+<a href="https://github.com/sumai-suchi/insight-ai"><strong>📂 Repository</strong></a>
+&nbsp; | &nbsp;
+<a href="https://insight-ai-ochre.vercel.app/"><strong>🌐 Live Demo</strong></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🩸 BloodCare</h3>
+<p><strong>Full-Stack Blood Donation Platform</strong></p>
+
+<p>A user-friendly blood donation platform connecting blood donors with patients while simplifying donor management and donation support.</p>
+
+<strong>✨ Key Features</strong>
+<ul>
+<li>Donor and patient connectivity</li>
+<li>Firebase authentication and user management</li>
+<li>Blood donation support through Stripe integration</li>
+<li>Interactive and responsive user interface</li>
+</ul>
+
+<strong>🛠 Tech Stack</strong>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+</p>
+
+<p>
+<a href="YOUR_BLOODCARE_GITHUB_URL"><strong>📂 Repository</strong></a>
+&nbsp; | &nbsp;
+<a href="YOUR_BLOODCARE_LIVE_URL"><strong>🌐 Live Demo</strong></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ <a href="https://github.com/sumai-suchi/gearup-backend">GearUp Apollo</a></h3>
+<p><strong>Equipment Rental Marketplace Backend</strong></p>
+
+<p>A backend system for an equipment rental marketplace that manages secure rental transactions between equipment providers and customers.</p>
+
+<strong>✨ Key Features</strong>
+<ul>
+<li>Role-based authentication and authorization</li>
+<li>Equipment and rental management APIs</li>
+<li>JWT access and refresh token authentication</li>
+<li>Atomic database transactions using Prisma</li>
+<li>Input validation and administrative controls</li>
+</ul>
+
+<strong>🛠 Tech Stack</strong>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
+</p>
+
+<p>
+<a href="https://github.com/sumai-suchi/gearup-backend"><strong>📂 Repository</strong></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
+
 
 ## 📊 GitHub Statistics
 
