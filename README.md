@@ -48,7 +48,7 @@ With hands-on experience designing relational data models, role-based workflows,
 ## 💼 Professional Experience
 
 ### **Full Stack Engineer Intern** · **Tynoc Tech**
-*Currently working here · 
+*From October 14 to November 14 · 
 
 - Collaborating on full-stack application modules across frontend components and backend services.
 - Designing and integrating modular RESTful APIs with relational and NoSQL databases.
